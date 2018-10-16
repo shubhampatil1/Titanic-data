@@ -49,4 +49,4 @@ relations towards survivability of passengers with their Demographics and Socia 
 
 ### Other factor affecting survival
 
-<p>Looking at the data if a person with no siblings on the board, travelling with grany and if his ticket fair is relatively low than he/she has more probablity of survival. Example: i have entered my own data as menthioned above in the last row of test.csv and as you can see in the result_test.csv i survieved due to the above factors.</p>
+<p>Looking at the data if a person with no siblings on the board, travelling with nanny and if his ticket fair is relatively low than he/she has more probablity of survival. Example: i have entered my own data as menthioned above in the last row of test.csv and as you can see in the result_test.csv i survieved due to the above factors.</p>
