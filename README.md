@@ -46,3 +46,7 @@ relations towards survivability of passengers with their Demographics and Socia 
 
 <p>The answer to this question is most probably. Looking at the data grouped according to the Passenger Class, it would seem that the higher you are in the passenger class, the higher your chances of surviving the tragedy. 63% of the  First Class Passengers survived the tragedy. While only 48% of the Second Passengers survived and only 24% of the Third Class Passengers survived. Please take note that this part of the analysis is limited to the fact that there is no direct relationship between socio-economic status and their class. In other words, we cannot be sure that First Class passengers are rich and the rest of the passengers are poor. It would be great to have more details about each passenger such as their occupation or income for example. I looked at the Ticket Fare, but it seems that some passengers had 0 Fare, which could mean many things hence could not be a great basis in this part of the analysis.
 </p>
+
+### Other factor affecting survival
+
+<p>Looking at the data if a person with no siblings on the board, travelling with grany and if his ticket fair is relatively low than he/she has more probablity of survival.
